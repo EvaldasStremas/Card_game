@@ -1,1 +1,1 @@
-# Card_game
+# Simple card game
